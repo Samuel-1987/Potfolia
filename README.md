@@ -1,6 +1,6 @@
 <!-- Profile README for Samuel-1987 -->
 
-<h1 align="center">Hi 👋, I'm Samuel</h1>
+<h1 align="center">Samuel Ajayi</h1>
 <h3 align="center">Data Scientist | Machine Learning Engineer | AI Enthusiast</h3>
 
 <p align="center">
