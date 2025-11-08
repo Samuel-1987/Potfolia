@@ -1,79 +1,80 @@
-<!--Section 1: Introduce your self-->
-## ABOUT ME
+<!-- Profile README for Samuel-1987 -->
 
-Hello! I'm Samuel Ajayi 🤓, a data analyst, educator, and consultant with a passion for turning data into actionable insights. With experience across sales, operations, finance, Health Care and customer service, I help businesses solve challenges and unlock growth.
+<h1 align="center">Hi 👋, I'm Samuel</h1>
+<h3 align="center">Data Scientist | Machine Learning Engineer | AI Enthusiast</h3>
 
+<p align="center">
+  <img src="https://github.com/Samuel-1987/Samuel-1987/blob/main/images/unnamed.jpg?raw=true" alt="Samuel's profile picture" width="150" height="150" style="border-radius:50%">
+</p>
 
-<!--Mention your top/relevant skills here - core and soft skills-->
-## WHAT I DO
+---
 
-*As the Chief Analyst of SkillAhead Solutions Ltd, I provide consulting and training services for businesses and mentor aspiring analysts.*
+### 👨‍💻 About Me
 
-**- ✅ Data Analytics Consulting.**
-I provide in-depth analysis and tailored solutions to help you make data-driven decisions, optimize processes, and drive business growth. 
+💡 I’m a **Data Scientist** with **5+ years of experience** transforming data into intelligent solutions.  
+🧠 Skilled across the full data pipeline — from **data cleaning** and **modeling** to **deployment**.  
+📊 I love finding hidden patterns and building **predictive systems** that create real business value.  
+🚀 Passionate about **AI innovation**, **data storytelling**, and continuous learning.
 
-**- ✅ Staff Training & Development.**
-I offer comprehensive training programs in data analysis, visualization, and data-driven decision-making. From beginner to advanced levels. 
+---
 
+### 🛠️ Tech Stack
 
-<!--Section 2: List 3-4 key projects-->
-## MY PORTFOLIO 
+**Languages:**  
+🐍 Python | R | SQL | Julia  
 
-*A glimpse of some of the projects I've been working on.*
+**Data Analysis & Visualization:**  
+📊 Pandas | NumPy | Matplotlib | Seaborn | Power BI | Tableau  
 
-**Predictive Modeling and Hypothesis Testing using Titanic Dataset.**
-![image](1 anietie etuk data analytics car project.jpeg)
+**Machine Learning & AI:**  
+🤖 Scikit-learn | TensorFlow | PyTorch | XGBoost | Keras | OpenAI  
 
-The sinking of the Titanic is one of the most infamous shipwrecks in history.
+**Data Engineering:**  
+🧱 Spark | Airflow | Hadoop | AWS | Azure | Google Cloud  
 
+**Other Tools:**  
+🧰 Git | Docker | Streamlit | Jupyter | FastAPI | Flask
 
-[Read More](https://www.linkedin.com/pulse/predictive-modeling-hypothesis-testing-using-titanic-dataset-anietie/)
+---
 
-**Predictive Modeling and Hypothesis Testing using Titanic Dataset.**
+### 📈 GitHub Stats
 
-![image](2 anietie etuk data analytics sales project.jpg)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Samuel-1987&show_icons=true&theme=tokyonight" alt="GitHub stats" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Samuel-1987&theme=tokyonight" alt="GitHub Streak" height="160"/>
+</p>
 
-On April 15, 1912, during her maiden voyage, the widely considered “unsinkable” RMS Titanic sank after colliding with an iceberg. 
+---
 
-[Read More](https://www.linkedin.com/pulse/predictive-modeling-hypothesis-testing-using-titanic-dataset-anietie/)
+### 🧠 Featured Projects
 
-**Predictive Modeling and Hypothesis Testing using Titanic Dataset.**
+📌 [**Customer Churn Prediction**](https://github.com/Samuel-1987/customer-churn-prediction)  
+Predicting telecom customer churn using ML pipelines and interpretability tools like SHAP and LIME.  
 
-![image](3 anietie etuk data analytics agro project.jpg)
+📌 [**Financial Forecasting Dashboard**](https://github.com/Samuel-1987/financial-forecast-dashboard)  
+Interactive Streamlit dashboard for time-series forecasting and visualization.  
 
-Unfortunately, there weren’t enough lifeboats for everyone onboard, resulting in the death of 1502 out of 2224 passengers and crew. 
+📌 [**Healthcare NLP Insights**](https://github.com/Samuel-1987/healthcare-nlp-insights)  
+Applied NLP to analyze medical text and detect early disease signals.
 
-<a href="17 How to Present Data to Executives by Anietie Etuk.pdf">Download the Report here (pdf file)</a>
+---
 
+### 🌍 Connect with Me
 
-## CONTACT DETAILS
+<p align="left">
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:saerowosale@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/Samuel-1987" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
 
-*Let’s connect and see how we can make a difference together!*
-<table>
-  <tbody>
-    <tr>
-      <td>📧</td>
-      <td><a href="mailto:anietieetuk@gmail.com">anietieetuk@gmail.com</a></td>
-    </tr>
-    <tr>
-      <td>📞</td>
-      <td>(234) 816-763-7212</td>
-    </tr>
-    <tr>
-      <td>📍</td>
-      <td>PH, Nigeria</td>
-    </tr>
-    <tr>
-      <td>⬇️</td>
-      <td><a href="https://etuk123456.github.io/portfolio1/docs/Profile.pdf">Download my CV</a></td>
-    </tr>
-    <tr>
-      <td>🌐</td>
-      <td><a href="https://linkedin.com/in/etukanietie">The things I do daily on LinkedIn</a></td>
-    </tr>
-    <tr>
-      <td>📺</td>
-      <td><a href="https://www.youtube.com/@LearnwithEtuk">Watch my tutorials on YouTube</a></td>
-    </tr>
-  </tbody>
-</table>
+---
+
+### 🧩 Fun Facts
+
+- ☕ Coffee fue
