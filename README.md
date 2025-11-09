@@ -62,13 +62,13 @@ Applied NLP to analyze medical text and detect early disease signals.
 ### 🌍 Connect with Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/" target="_blank">
+  <a href="www.linkedin.com/in/samuelaja/" target="www.linkedin.com/in/samuelaja">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:saerowosale@gmail.com" target="_blank">
+  <a href="mailto:saerowosale@gmail.com" target="saerowosale@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://github.com/Samuel-1987" target="_blank">
+  <a href="https://github.com/Samuel-1987" target="https://github.com/Samuel-1987">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
