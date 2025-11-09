@@ -1,6 +1,6 @@
 <!-- Profile README for Samuel-1987 -->
 
-<h1 align="center">Samuel Ajayi</h1>
+<h1 align="center">Hi 👋, Samuel Ajayi</h1>
 <h3 align="center">Data Scientist | Machine Learning Engineer | AI Enthusiast</h3>
 
 <p align="center">
@@ -62,13 +62,13 @@ Applied NLP to analyze medical text and detect early disease signals.
 ### 🌍 Connect with Me
 
 <p align="left">
-  <a href="www.linkedin.com/in/samuelaja/" target="www.linkedin.com/in/samuelaja">
+  <a href="https://www.linkedin.com/in/samuelaja/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:saerowosale@gmail.com" target="saerowosale@gmail.com">
+  <a href="mailto:saerowosale@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://github.com/Samuel-1987" target="https://github.com/Samuel-1987">
+  <a href="https://github.com/Samuel-1987" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
@@ -77,4 +77,10 @@ Applied NLP to analyze medical text and detect early disease signals.
 
 ### 🧩 Fun Facts
 
-- ☕ Coffee fue
+- ☕ Coffee fuels my model tuning sessions.  
+- 🧩 I enjoy solving data puzzles and Kaggle competitions.  
+- 📘 Lifelong learner — currently exploring **LLMs** and **generative AI**.  
+
+---
+
+⭐️ **“Data tells stories — I just help it speak clearly.”**
